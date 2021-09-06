@@ -17,4 +17,4 @@ Técnico em informática pelo Instituto Federal de Educação, Ciência e Tecnol
 ![Mysql Badge](https://img.shields.io/badge/-MySQL-6633cc?style=flat-square&logo=mysql&logoColor=white) 
 ![mongodb Badge](https://img.shields.io/badge/-MongoDB-6633cc?style=flat-square&logo=Mongodb&logoColor=white)
 
-![](https://github-readme-stats.vercel.app/api?username=lmiguelm&theme=blue-green)
+![stats](https://github-readme-stats.vercel.app/api?username=lmiguelm&theme=blue-green)
